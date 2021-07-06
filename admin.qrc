@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="adminimage">
+    <file>00.png</file>
+    <file>8.png</file>
+    <file>11.png</file>
+    <file>99.png</file>
+    <file>1.png</file>
+    <file>2.png</file>
+    <file>3.png</file>
+    <file>4.png</file>
+    <file>5.png</file>
+    <file>download (3).jfif</file>
+    <file>images (1).jfif</file>
+    <file>images.jfif</file>
+    <file>download (2).jfif</file>
+    <file>download (1).jfif</file>
+  </qresource>
+</RCC>

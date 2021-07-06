@@ -1,0 +1,1 @@
+from dbproject.dbdetails import *
